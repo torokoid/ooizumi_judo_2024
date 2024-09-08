@@ -123,7 +123,7 @@ a.p:hover span {
 <div class="yellow"> 
 <h1>幹事様のお声がけに答えて総勢32名のOB会となりました。<br></h1></div>
 <br>
-<a href="20240907_000.png" data-lightbox="abc"><img src="20240907_000.png" alt="サンプル画像" width="900" /></a>
+<a href="20240908_000.png" data-lightbox="abc"><img src="20240908_000.png" alt="サンプル画像" width="900" /></a>
 <div class="yellow"> 
 <h2>佐藤先生をはじめ、集まったメンバーは皆お元気です。<br>
 春木さん撮影写真</h2></div>
