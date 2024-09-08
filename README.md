@@ -145,6 +145,7 @@ a.p:hover span {
 <a href="20240907_011.JPG" data-lightbox="abc"><img src="20240907_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240907_012.JPG" data-lightbox="abc"><img src="20240907_012.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br>
 <div class="yellow"> 
 <h2>以下、羽田撮影写真</h2></div>
 <a href="20240907_013.JPG" target="_blank"><img src="20240907_013.JPG" alt="サンプル画像" width="900" /></a>
@@ -195,6 +196,10 @@ a.p:hover span {
 <a href="20240907_058.JPG" target="_blank"><img src="20240907_058.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240907_059.JPG" target="_blank"><img src="20240907_059.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240907_060.JPG" target="_blank"><img src="20240907_060.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br><br><br>
+<div class="yellow"> 
+<h2>以下、動画集。通信量が多いのでWi-Fiでの視聴をお勧めします。</h2></div>
 
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
