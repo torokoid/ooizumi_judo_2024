@@ -121,7 +121,7 @@ a.p:hover span {
 
 <h1><span class="snow">出席者一覧</span></h1>
 <div class="yellow"> 
-<h1>幹事様のお声がけに答えて総勢32名のOB会となりました。<br></h1></div>
+<h1>幹事様のお声がけで総勢32名のOB会となりました。<br></h1></div>
 <br>
 <a href="20240908_000.png" data-lightbox="abc"><img src="20240908_000.png" alt="サンプル画像" width="900" /></a>
 <div class="yellow"> 
