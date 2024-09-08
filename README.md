@@ -128,7 +128,7 @@ a.p:hover span {
 <a href="20240908_000.png" data-lightbox="abc"><img src="20240908_000.png" alt="サンプル画像" width="900" /></a>
 <div class="yellow"> 
 <h2>佐藤先生をはじめ、集まったメンバーは皆お元気です。<br>
-春木さん撮影写真</h2></div>
+以下、春木さん撮影写真</h2></div>
 <a href="20240907_001.JPG" data-lightbox="abc"><img src="20240907_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240907_002.JPG" data-lightbox="abc"><img src="20240907_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240907_003.JPG" data-lightbox="abc"><img src="20240907_003.JPG" alt="サンプル画像" width="900" /></a>
