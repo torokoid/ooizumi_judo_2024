@@ -112,7 +112,7 @@ a.p:hover span {
 
 <br><br><br><br><br>
 
-<p class="topicpath"><a href="https://torokoid.github.io/ooizumi_judo/" target="_blank">〜2019年までのOB会</a>><a href="https://torokoid.github.io/zuiho/" target="_blank">「瑞宝小綬章」受章の記録</a>><a>2024年9月7日、OB会</a></p>
+<p><a href="https://torokoid.github.io/ooizumi_judo/" target="_blank">〜2019年までのOB会</a>><a href="https://torokoid.github.io/zuiho/" target="_blank">「瑞宝小綬章」受章の記録</a>><a>2024年9月7日、OB会</a></p>
 
 <p align="left"> <img src="ooizumi_judo_2.png" alt="アクセス用QRコード" width="100"><!--<a href="https://torokoid.github.io/2024Jan_Thailand_2/" target="_blank">-->アクセス用QRコード<!--</a>--></p>
     
