@@ -110,9 +110,11 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 
-<p align="left"> <img src="QR_braketest.png" alt="アクセス用QRコード" width="100"><!--<a href="https://torokoid.github.io/2024Jan_Thailand_2/" target="_blank">-->アクセス用QRコード<!--</a>--></p>
+<p align="left"> <img src="ooizumi_judo_2.png" alt="アクセス用QRコード" width="100"><!--<a href="https://torokoid.github.io/2024Jan_Thailand_2/" target="_blank">-->アクセス用QRコード<!--</a>--></p>
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
+
+<br><br><br><br><br>
     
 <h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 2024/ep/07 大泉高校柔道部OB会、牛タンいろ葉邸＠代々木 !!!</font></marquee></h1>
     
