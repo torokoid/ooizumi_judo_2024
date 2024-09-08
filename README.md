@@ -200,7 +200,19 @@ a.p:hover span {
 <br><br><br><br>
 <div class="yellow"> 
 <h2>以下、動画集。通信量が多いのでWi-Fiでの視聴をお勧めします。</h2></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pJCXSRDIsE?si=i8z4QpuHq35LxkCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_L3wOwnzFk?si=Bcj3Tw-ESbN8aI4e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<div class="yellow"> 
+<h2>佐藤先生のお言葉。</h2></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u024twgks3M?si=HLjpYOZwqGpX7w18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkX_OZ1GiAw?si=lN7QbnW3MXIMigjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GLM48mZ9JdU?si=YK6PJlxVQUZtQJQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvLIH9w11sg?si=OPii_NKMZ0NqqDe5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
