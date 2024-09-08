@@ -119,7 +119,7 @@ a.p:hover span {
 <!--ここまでは定型文としてそのままコピペして再利用します-->
 
     
-<h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 2024/ep/07 大泉高校柔道部OB会、牛タンいろ葉邸＠代々木 !!!</font></marquee></h1>
+<h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 2024/Sep/07 大泉高校柔道部OB会、牛タンいろ葉邸＠代々木 !!!</font></marquee></h1>
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
