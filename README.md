@@ -143,8 +143,9 @@ a.p:hover span {
 <a href="20240907_009.JPG" data-lightbox="abc"><img src="20240907_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240907_010.JPG" data-lightbox="abc"><img src="20240907_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240907_011.JPG" data-lightbox="abc"><img src="20240907_011.JPG" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20240907_012.JPG" data-lightbox="abc"><img src="20240907_012.JPG" alt="サンプル画像" width="900" /></a>
-
+-->
 <br><br><br><br>
 <div class="yellow"> 
 <h2>以下、羽田撮影写真</h2></div>
